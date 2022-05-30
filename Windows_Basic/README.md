@@ -1,6 +1,6 @@
 # Windows_Basic
-Windowsの基本
-2022年度マイコン部中学向け講座
+Windowsの基本  
+2022年度マイコン部中学向け講座  
 ## 概要
 世界で最もシェアの高いWindowsの仕組みと操作を学び、基本的なことをできるようにしましょう！  
 難しく捉えなくても大丈夫でです！誰でも簡単にできます！
@@ -20,3 +20,8 @@ Windowsの歴史についてはまた別の講座で...
 ### 画面の見方と機能
 Windowsの種類で多少異なりますが、ほぼ同様です。  
 ![image](https://user-images.githubusercontent.com/91722200/170895140-f83a1db4-6d51-4382-abc0-153a09a2a9c6.png)
+
+---
+本郷学園マイコン部  
+禁無断複製・転載
+Copyrught (c) 2022 Hongo Micro Computer Club/H.Taido All rights reserved.
