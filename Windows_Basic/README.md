@@ -21,7 +21,7 @@ Windowsの歴史についてはまた別の講座で...
 その名の通り、"作業をする机"と言えるでしょう。
 ### 画面の見方と機能
 Windowsの種類で多少異なりますが、ほぼ同様です。  
-![image](https://user-images.githubusercontent.com/91722200/170895140-f83a1db4-6d51-4382-abc0-153a09a2a9c6.png)
+![image](https://user-images.githubusercontent.com/91722200/170895140-f83a1db4-6d51-4382-abc0-153a09a2a9c6.png)  
 1...デスクトップ
 2...タスク バー
 3...スタート ボタン
