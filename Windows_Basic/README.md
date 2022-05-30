@@ -23,5 +23,5 @@ Windowsの種類で多少異なりますが、ほぼ同様です。
 
 ---
 本郷学園マイコン部  
-禁無断複製・転載
+禁無断複製・転載  
 Copyrught (c) 2022 Hongo Micro Computer Club/H.Taido All rights reserved.
